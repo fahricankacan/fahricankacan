@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahricankacan&label=Profile%20views&color=0e75b6&style=flat" alt="fahricankacan" /> </p>
 
-- 🔭 Working on [LcWaikikiBootcamp](https://github.com/fahricankacan/LCBootCamp)
-
 - 🔭 Working on [CodePen](https://codepen.io/thorondorr)
 
 - 🌱 I’m currently learning **Dotnet, C# , SQL ,Javascript , Reactjs**
